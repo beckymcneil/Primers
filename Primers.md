@@ -182,7 +182,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Dbugensis\_cytb\_R</td>
+<td class="org-left">Dbugensis_cytb_R</td>
 <td class="org-right">1</td>
 <td class="org-right">10</td>
 <td class="org-left">&#xa0;</td>
@@ -195,7 +195,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Dpolymorpha\_cytb\_F</td>
+<td class="org-left">Dpolymorpha_cytb_F</td>
 <td class="org-right">1</td>
 <td class="org-right">11</td>
 <td class="org-left">Drosophila polymorpha</td>
@@ -208,7 +208,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Dpolymorpha\_cytb\_R</td>
+<td class="org-left">Dpolymorpha_cytb_R</td>
 <td class="org-right">1</td>
 <td class="org-right">12</td>
 <td class="org-left">Drosophila polymorpha</td>
@@ -221,7 +221,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">SilGla\_Dloop\_R</td>
+<td class="org-left">SilGla_Dloop_R</td>
 <td class="org-right">1</td>
 <td class="org-right">13</td>
 <td class="org-left">Silurus glanis</td>
@@ -234,7 +234,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">SilGla\_Dloop\_L</td>
+<td class="org-left">SilGla_Dloop_L</td>
 <td class="org-right">1</td>
 <td class="org-right">14</td>
 <td class="org-left">Silurus glanis</td>
@@ -247,7 +247,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">PacifasticusCOI\_F</td>
+<td class="org-left">PacifasticusCOI_F</td>
 <td class="org-right">1</td>
 <td class="org-right">15</td>
 <td class="org-left">Pacifasticus lacustris</td>
@@ -260,7 +260,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">PacifasticusCOI\_R</td>
+<td class="org-left">PacifasticusCOI_R</td>
 <td class="org-right">1</td>
 <td class="org-right">16</td>
 <td class="org-left">Pacifasticus lacustris</td>
@@ -299,7 +299,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">MarMa\_16S1.1\_F</td>
+<td class="org-left">MarMa_16S1.1_F</td>
 <td class="org-right">1</td>
 <td class="org-right">19</td>
 <td class="org-left">&#xa0;</td>
@@ -312,7 +312,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">MarMa\_16S2.1\_F</td>
+<td class="org-left">MarMa_16S2.1_F</td>
 <td class="org-right">1</td>
 <td class="org-right">20</td>
 <td class="org-left">&#xa0;</td>
@@ -325,7 +325,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">MarMa\_16S1.2\_R</td>
+<td class="org-left">MarMa_16S1.2_R</td>
 <td class="org-right">1</td>
 <td class="org-right">21</td>
 <td class="org-left">&#xa0;</td>
@@ -338,7 +338,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Angcytb\_FWD</td>
+<td class="org-left">Angcytb_FWD</td>
 <td class="org-right">1</td>
 <td class="org-right">22</td>
 <td class="org-left">&#xa0;</td>
@@ -351,7 +351,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Angcytb\_REV</td>
+<td class="org-left">Angcytb_REV</td>
 <td class="org-right">1</td>
 <td class="org-right">23</td>
 <td class="org-left">&#xa0;</td>
@@ -364,7 +364,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Thymallus\_COI\_R</td>
+<td class="org-left">Thymallus_COI_R</td>
 <td class="org-right">1</td>
 <td class="org-right">24</td>
 <td class="org-left">Thymallus thymallus</td>
@@ -377,7 +377,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Thymallus\_COI\_F</td>
+<td class="org-left">Thymallus_COI_F</td>
 <td class="org-right">1</td>
 <td class="org-right">25</td>
 <td class="org-left">Thymallus thymallus</td>
@@ -390,7 +390,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rut\_rutS665</td>
+<td class="org-left">Rut_rutS665</td>
 <td class="org-right">1</td>
 <td class="org-right">26</td>
 <td class="org-left">Rutilus rutilus</td>
@@ -403,7 +403,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rut\_rutA665</td>
+<td class="org-left">Rut_rutA665</td>
 <td class="org-right">1</td>
 <td class="org-right">27</td>
 <td class="org-left">Rutilus rutilus</td>
@@ -416,7 +416,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01Mussel16S\_F</td>
+<td class="org-left">T01Mussel16S_F</td>
 <td class="org-right">1</td>
 <td class="org-right">28</td>
 <td class="org-left">Mussels</td>
@@ -429,7 +429,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T04Mussel16S\_F</td>
+<td class="org-left">T04Mussel16S_F</td>
 <td class="org-right">1</td>
 <td class="org-right">29</td>
 <td class="org-left">Mussels</td>
@@ -442,7 +442,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T06Mussel16S\_F</td>
+<td class="org-left">T06Mussel16S_F</td>
 <td class="org-right">1</td>
 <td class="org-right">30</td>
 <td class="org-left">Mussels</td>
@@ -455,7 +455,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T08Mussel16S\_F</td>
+<td class="org-left">T08Mussel16S_F</td>
 <td class="org-right">1</td>
 <td class="org-right">31</td>
 <td class="org-left">Mussels</td>
@@ -468,7 +468,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T09Mussel16S\_F</td>
+<td class="org-left">T09Mussel16S_F</td>
 <td class="org-right">1</td>
 <td class="org-right">32</td>
 <td class="org-left">Mussels</td>
@@ -481,7 +481,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T13Mussel16S\_F</td>
+<td class="org-left">T13Mussel16S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">33</td>
 <td class="org-left">Mussels</td>
@@ -494,7 +494,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T16Mussel16S\_F</td>
+<td class="org-left">T16Mussel16S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">34</td>
 <td class="org-left">Mussels</td>
@@ -507,7 +507,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T18Mussel16S\_F</td>
+<td class="org-left">T18Mussel16S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">35</td>
 <td class="org-left">Mussels</td>
@@ -520,7 +520,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01Mussel16S\_R</td>
+<td class="org-left">T01Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">36</td>
 <td class="org-left">Mussels</td>
@@ -533,7 +533,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T03Mussel16S\_R</td>
+<td class="org-left">T03Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">37</td>
 <td class="org-left">Mussels</td>
@@ -546,7 +546,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T04Mussel16S\_R</td>
+<td class="org-left">T04Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">38</td>
 <td class="org-left">Mussels</td>
@@ -559,7 +559,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T05Mussel16S\_R</td>
+<td class="org-left">T05Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">39</td>
 <td class="org-left">Mussels</td>
@@ -572,7 +572,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T07Mussel16S\_R</td>
+<td class="org-left">T07Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">40</td>
 <td class="org-left">Mussels</td>
@@ -585,7 +585,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T08Mussel16S\_R</td>
+<td class="org-left">T08Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">41</td>
 <td class="org-left">Mussels</td>
@@ -598,7 +598,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T09Mussel16S\_R</td>
+<td class="org-left">T09Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">42</td>
 <td class="org-left">Mussels</td>
@@ -611,7 +611,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T11Mussel16S\_R</td>
+<td class="org-left">T11Mussel16S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">43</td>
 <td class="org-left">Mussels</td>
@@ -624,7 +624,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_12S\_F</td>
+<td class="org-left">T01_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">44</td>
 <td class="org-left">Fish</td>
@@ -637,7 +637,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T04\_12S\_F</td>
+<td class="org-left">T04_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">45</td>
 <td class="org-left">Fish</td>
@@ -650,7 +650,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T016\_12S\_F</td>
+<td class="org-left">T016_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">46</td>
 <td class="org-left">Fish</td>
@@ -663,7 +663,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T08\_12S\_F</td>
+<td class="org-left">T08_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">47</td>
 <td class="org-left">Fish</td>
@@ -676,7 +676,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T09\_12S\_F</td>
+<td class="org-left">T09_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">48</td>
 <td class="org-left">Fish</td>
@@ -689,7 +689,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T13\_12S\_F</td>
+<td class="org-left">T13_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">49</td>
 <td class="org-left">Fish</td>
@@ -702,7 +702,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T16\_12S\_F</td>
+<td class="org-left">T16_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">50</td>
 <td class="org-left">Fish</td>
@@ -715,7 +715,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T18\_12S\_F</td>
+<td class="org-left">T18_12S_F</td>
 <td class="org-right">2</td>
 <td class="org-right">51</td>
 <td class="org-left">Fish</td>
@@ -728,7 +728,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_12S\_R</td>
+<td class="org-left">T01_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">52</td>
 <td class="org-left">Fish</td>
@@ -741,7 +741,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T03\_12S\_R</td>
+<td class="org-left">T03_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">53</td>
 <td class="org-left">Fish</td>
@@ -754,7 +754,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T04\_12S\_R</td>
+<td class="org-left">T04_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">54</td>
 <td class="org-left">Fish</td>
@@ -767,7 +767,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T05\_12S\_R</td>
+<td class="org-left">T05_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">55</td>
 <td class="org-left">Fish</td>
@@ -780,7 +780,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T07\_12S\_R</td>
+<td class="org-left">T07_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">56</td>
 <td class="org-left">Fish</td>
@@ -793,7 +793,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T08\_12S\_R</td>
+<td class="org-left">T08_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">57</td>
 <td class="org-left">Fish</td>
@@ -806,7 +806,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T09\_12S\_R</td>
+<td class="org-left">T09_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">58</td>
 <td class="org-left">Fish</td>
@@ -819,7 +819,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T11\_12S\_R</td>
+<td class="org-left">T11_12S_R</td>
 <td class="org-right">2</td>
 <td class="org-right">59</td>
 <td class="org-left">Fish</td>
@@ -832,7 +832,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">P2\_Bird\_sex</td>
+<td class="org-left">P2_Bird_sex</td>
 <td class="org-right">2</td>
 <td class="org-right">60</td>
 <td class="org-left">Birds</td>
@@ -845,7 +845,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">P3\_Bird\_sex</td>
+<td class="org-left">P3_Bird_sex</td>
 <td class="org-right">2</td>
 <td class="org-right">61</td>
 <td class="org-left">Birds</td>
@@ -858,7 +858,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">FR1d\_t1</td>
+<td class="org-left">FR1d_t1</td>
 <td class="org-right">2</td>
 <td class="org-right">62</td>
 <td class="org-left">&#xa0;</td>
@@ -871,7 +871,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">VF2\_t1</td>
+<td class="org-left">VF2_t1</td>
 <td class="org-right">2</td>
 <td class="org-right">63</td>
 <td class="org-left">&#xa0;</td>
@@ -897,7 +897,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe2\_F</td>
+<td class="org-left">Pe2_F</td>
 <td class="org-right">3</td>
 <td class="org-right">65</td>
 <td class="org-left">&#xa0;</td>
@@ -910,7 +910,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe4\_F</td>
+<td class="org-left">Pe4_F</td>
 <td class="org-right">3</td>
 <td class="org-right">66</td>
 <td class="org-left">&#xa0;</td>
@@ -923,7 +923,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe7\_F</td>
+<td class="org-left">Pe7_F</td>
 <td class="org-right">3</td>
 <td class="org-right">67</td>
 <td class="org-left">&#xa0;</td>
@@ -936,7 +936,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe8\_F</td>
+<td class="org-left">Pe8_F</td>
 <td class="org-right">3</td>
 <td class="org-right">68</td>
 <td class="org-left">&#xa0;</td>
@@ -949,7 +949,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe5\_F</td>
+<td class="org-left">Pe5_F</td>
 <td class="org-right">3</td>
 <td class="org-right">69</td>
 <td class="org-left">&#xa0;</td>
@@ -962,7 +962,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe16\_F</td>
+<td class="org-left">Pe16_F</td>
 <td class="org-right">3</td>
 <td class="org-right">70</td>
 <td class="org-left">&#xa0;</td>
@@ -975,7 +975,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe6\_F</td>
+<td class="org-left">Pe6_F</td>
 <td class="org-right">3</td>
 <td class="org-right">71</td>
 <td class="org-left">&#xa0;</td>
@@ -988,7 +988,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe9\_R</td>
+<td class="org-left">Pe9_R</td>
 <td class="org-right">3</td>
 <td class="org-right">72</td>
 <td class="org-left">&#xa0;</td>
@@ -1001,7 +1001,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe2\_R</td>
+<td class="org-left">Pe2_R</td>
 <td class="org-right">3</td>
 <td class="org-right">73</td>
 <td class="org-left">&#xa0;</td>
@@ -1014,7 +1014,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe4\_R</td>
+<td class="org-left">Pe4_R</td>
 <td class="org-right">3</td>
 <td class="org-right">74</td>
 <td class="org-left">&#xa0;</td>
@@ -1027,7 +1027,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe7\_R</td>
+<td class="org-left">Pe7_R</td>
 <td class="org-right">3</td>
 <td class="org-right">75</td>
 <td class="org-left">&#xa0;</td>
@@ -1040,7 +1040,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe8\_R</td>
+<td class="org-left">Pe8_R</td>
 <td class="org-right">3</td>
 <td class="org-right">76</td>
 <td class="org-left">&#xa0;</td>
@@ -1053,7 +1053,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe5\_R</td>
+<td class="org-left">Pe5_R</td>
 <td class="org-right">3</td>
 <td class="org-right">77</td>
 <td class="org-left">&#xa0;</td>
@@ -1066,7 +1066,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe16\_R</td>
+<td class="org-left">Pe16_R</td>
 <td class="org-right">3</td>
 <td class="org-right">78</td>
 <td class="org-left">&#xa0;</td>
@@ -1079,7 +1079,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe6\_R</td>
+<td class="org-left">Pe6_R</td>
 <td class="org-right">3</td>
 <td class="org-right">79</td>
 <td class="org-left">&#xa0;</td>
@@ -1092,7 +1092,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pe9\_F</td>
+<td class="org-left">Pe9_F</td>
 <td class="org-right">3</td>
 <td class="org-right">80</td>
 <td class="org-left">&#xa0;</td>
@@ -1105,7 +1105,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np641\_F</td>
+<td class="org-left">Np641_F</td>
 <td class="org-right">3</td>
 <td class="org-right">81</td>
 <td class="org-left">&#xa0;</td>
@@ -1118,7 +1118,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np274\_F</td>
+<td class="org-left">Np274_F</td>
 <td class="org-right">3</td>
 <td class="org-right">82</td>
 <td class="org-left">&#xa0;</td>
@@ -1131,7 +1131,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np382\_F</td>
+<td class="org-left">Np382_F</td>
 <td class="org-right">3</td>
 <td class="org-right">83</td>
 <td class="org-left">&#xa0;</td>
@@ -1144,7 +1144,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np207\_F</td>
+<td class="org-left">Np207_F</td>
 <td class="org-right">3</td>
 <td class="org-right">84</td>
 <td class="org-left">&#xa0;</td>
@@ -1157,7 +1157,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np694\_F</td>
+<td class="org-left">Np694_F</td>
 <td class="org-right">3</td>
 <td class="org-right">85</td>
 <td class="org-left">&#xa0;</td>
@@ -1170,7 +1170,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Uc5\_F</td>
+<td class="org-left">Uc5_F</td>
 <td class="org-right">3</td>
 <td class="org-right">86</td>
 <td class="org-left">Unio crassus</td>
@@ -1183,7 +1183,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Uc15\_F</td>
+<td class="org-left">Uc15_F</td>
 <td class="org-right">3</td>
 <td class="org-right">87</td>
 <td class="org-left">Unio crassus</td>
@@ -1196,7 +1196,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Uc25\_F</td>
+<td class="org-left">Uc25_F</td>
 <td class="org-right">3</td>
 <td class="org-right">88</td>
 <td class="org-left">Unio crassus</td>
@@ -1209,7 +1209,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np641\_R</td>
+<td class="org-left">Np641_R</td>
 <td class="org-right">3</td>
 <td class="org-right">89</td>
 <td class="org-left">Unio crassus</td>
@@ -1222,7 +1222,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np274\_R</td>
+<td class="org-left">Np274_R</td>
 <td class="org-right">3</td>
 <td class="org-right">90</td>
 <td class="org-left">Unio crassus</td>
@@ -1235,7 +1235,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np382\_R</td>
+<td class="org-left">Np382_R</td>
 <td class="org-right">3</td>
 <td class="org-right">91</td>
 <td class="org-left">Unio crassus</td>
@@ -1248,7 +1248,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np207\_R</td>
+<td class="org-left">Np207_R</td>
 <td class="org-right">3</td>
 <td class="org-right">92</td>
 <td class="org-left">Unio crassus</td>
@@ -1261,7 +1261,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Np694\_R</td>
+<td class="org-left">Np694_R</td>
 <td class="org-right">3</td>
 <td class="org-right">93</td>
 <td class="org-left">Unio crassus</td>
@@ -1274,7 +1274,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Uc5\_R</td>
+<td class="org-left">Uc5_R</td>
 <td class="org-right">3</td>
 <td class="org-right">94</td>
 <td class="org-left">Unio crassus</td>
@@ -1287,7 +1287,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Uc15\_R</td>
+<td class="org-left">Uc15_R</td>
 <td class="org-right">3</td>
 <td class="org-right">95</td>
 <td class="org-left">Unio crassus</td>
@@ -1300,7 +1300,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Ucs25\_R</td>
+<td class="org-left">Ucs25_R</td>
 <td class="org-right">3</td>
 <td class="org-right">96</td>
 <td class="org-left">Unio crassus</td>
@@ -1313,7 +1313,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana temporaria\_CO1\_F</td>
+<td class="org-left">Rana temporaria_CO1_F</td>
 <td class="org-right">4</td>
 <td class="org-right">97</td>
 <td class="org-left">Rana temporaria</td>
@@ -1326,7 +1326,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana temporaria\_CO1\_R</td>
+<td class="org-left">Rana temporaria_CO1_R</td>
 <td class="org-right">4</td>
 <td class="org-right">98</td>
 <td class="org-left">Rana temporaria</td>
@@ -1339,7 +1339,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana dalmatina\_CO1\_R</td>
+<td class="org-left">Rana dalmatina_CO1_R</td>
 <td class="org-right">4</td>
 <td class="org-right">99</td>
 <td class="org-left">Rana dalmatina</td>
@@ -1352,7 +1352,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana dalmatina\_CO1\_F</td>
+<td class="org-left">Rana dalmatina_CO1_F</td>
 <td class="org-right">4</td>
 <td class="org-right">100</td>
 <td class="org-left">Rana dalmatina</td>
@@ -1365,7 +1365,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana arvalis\_CO1\_F</td>
+<td class="org-left">Rana arvalis_CO1_F</td>
 <td class="org-right">4</td>
 <td class="org-right">101</td>
 <td class="org-left">Rana arvalis</td>
@@ -1378,7 +1378,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana arvalis\_CO1\_R</td>
+<td class="org-left">Rana arvalis_CO1_R</td>
 <td class="org-right">4</td>
 <td class="org-right">102</td>
 <td class="org-left">Rana arvalis</td>
@@ -1391,7 +1391,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bufo bufo\_CO1\_F</td>
+<td class="org-left">Bufo bufo_CO1_F</td>
 <td class="org-right">4</td>
 <td class="org-right">103</td>
 <td class="org-left">Bufo bufo</td>
@@ -1404,7 +1404,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bufo bufo\_CO1\_R</td>
+<td class="org-left">Bufo bufo_CO1_R</td>
 <td class="org-right">4</td>
 <td class="org-right">104</td>
 <td class="org-left">Bufo bufo</td>
@@ -1417,7 +1417,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bufotes viridis\_CO1\_F</td>
+<td class="org-left">Bufotes viridis_CO1_F</td>
 <td class="org-right">4</td>
 <td class="org-right">105</td>
 <td class="org-left">Bufotes viridis</td>
@@ -1430,7 +1430,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bufotes viridis\_CO1\_R</td>
+<td class="org-left">Bufotes viridis_CO1_R</td>
 <td class="org-right">4</td>
 <td class="org-right">106</td>
 <td class="org-left">Bufotes viridis</td>
@@ -1456,7 +1456,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">dgLCO\_1490</td>
+<td class="org-left">dgLCO_1490</td>
 <td class="org-right">4</td>
 <td class="org-right">108</td>
 <td class="org-left">&#xa0;</td>
@@ -2002,7 +2002,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_Mussel16S\_F</td>
+<td class="org-left">T01_Mussel16S_F</td>
 <td class="org-right">5</td>
 <td class="org-right">151</td>
 <td class="org-left">Mussels</td>
@@ -2132,7 +2132,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_16S1</td>
+<td class="org-left">T01_16S1</td>
 <td class="org-right">6</td>
 <td class="org-right">161</td>
 <td class="org-left">&#xa0;</td>
@@ -2145,7 +2145,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_16S2</td>
+<td class="org-left">T01_16S2</td>
 <td class="org-right">6</td>
 <td class="org-right">162</td>
 <td class="org-left">&#xa0;</td>
@@ -2158,7 +2158,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_F52</td>
+<td class="org-left">T01_F52</td>
 <td class="org-right">6</td>
 <td class="org-right">163</td>
 <td class="org-left">&#xa0;</td>
@@ -2171,7 +2171,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_R193</td>
+<td class="org-left">T01_R193</td>
 <td class="org-right">6</td>
 <td class="org-right">164</td>
 <td class="org-left">&#xa0;</td>
@@ -2184,7 +2184,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_16S3</td>
+<td class="org-left">T01_16S3</td>
 <td class="org-right">6</td>
 <td class="org-right">165</td>
 <td class="org-left">&#xa0;</td>
@@ -2197,7 +2197,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_16S4</td>
+<td class="org-left">T01_16S4</td>
 <td class="org-right">6</td>
 <td class="org-right">166</td>
 <td class="org-left">&#xa0;</td>
@@ -2236,7 +2236,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">T01\_trnL-c</td>
+<td class="org-left">T01_trnL-c</td>
 <td class="org-right">6</td>
 <td class="org-right">169</td>
 <td class="org-left">&#xa0;</td>
@@ -2353,7 +2353,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">CA1b6\_FWD</td>
+<td class="org-left">CA1b6_FWD</td>
 <td class="org-right">6</td>
 <td class="org-right">179</td>
 <td class="org-left">&#xa0;</td>
@@ -2366,7 +2366,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">R1CA1b5\_FWD</td>
+<td class="org-left">R1CA1b5_FWD</td>
 <td class="org-right">6</td>
 <td class="org-right">180</td>
 <td class="org-left">&#xa0;</td>
@@ -2379,7 +2379,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">CA\_1b6\_REV</td>
+<td class="org-left">CA_1b6_REV</td>
 <td class="org-right">6</td>
 <td class="org-right">181</td>
 <td class="org-left">&#xa0;</td>
@@ -2392,7 +2392,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">R1CA1b5\_REV</td>
+<td class="org-left">R1CA1b5_REV</td>
 <td class="org-right">6</td>
 <td class="org-right">182</td>
 <td class="org-left">&#xa0;</td>
@@ -2405,7 +2405,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">ITS1F\_F</td>
+<td class="org-left">ITS1F_F</td>
 <td class="org-right">6</td>
 <td class="org-right">183</td>
 <td class="org-left">&#xa0;</td>
@@ -2418,7 +2418,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">ITS4B\_R</td>
+<td class="org-left">ITS4B_R</td>
 <td class="org-right">6</td>
 <td class="org-right">184</td>
 <td class="org-left">&#xa0;</td>
@@ -2431,7 +2431,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">rbcL\_R</td>
+<td class="org-left">rbcL_R</td>
 <td class="org-right">6</td>
 <td class="org-right">185</td>
 <td class="org-left">&#xa0;</td>
@@ -2444,7 +2444,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">rbcL\_F</td>
+<td class="org-left">rbcL_F</td>
 <td class="org-right">6</td>
 <td class="org-right">186</td>
 <td class="org-left">&#xa0;</td>
@@ -2483,7 +2483,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">VR1d\_t1</td>
+<td class="org-left">VR1d_t1</td>
 <td class="org-right">6</td>
 <td class="org-right">189</td>
 <td class="org-left">&#xa0;</td>
@@ -2496,7 +2496,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">VF1d\_t1</td>
+<td class="org-left">VF1d_t1</td>
 <td class="org-right">6</td>
 <td class="org-right">190</td>
 <td class="org-left">&#xa0;</td>
@@ -2509,7 +2509,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">its1\_F</td>
+<td class="org-left">its1_F</td>
 <td class="org-right">6</td>
 <td class="org-right">191</td>
 <td class="org-left">&#xa0;</td>
@@ -2522,7 +2522,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">its1\_rev</td>
+<td class="org-left">its1_rev</td>
 <td class="org-right">6</td>
 <td class="org-right">192</td>
 <td class="org-left">&#xa0;</td>
@@ -2691,7 +2691,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">matK\_3F</td>
+<td class="org-left">matK_3F</td>
 <td class="org-right">7</td>
 <td class="org-right">205</td>
 <td class="org-left">&#xa0;</td>
@@ -2704,7 +2704,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">matK\_1R</td>
+<td class="org-left">matK_1R</td>
 <td class="org-right">7</td>
 <td class="org-right">206</td>
 <td class="org-left">&#xa0;</td>
@@ -2717,7 +2717,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">trnLf-trnFr\_F</td>
+<td class="org-left">trnLf-trnFr_F</td>
 <td class="org-right">7</td>
 <td class="org-right">207</td>
 <td class="org-left">&#xa0;</td>
@@ -2743,7 +2743,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">ITS\_5</td>
+<td class="org-left">ITS_5</td>
 <td class="org-right">7</td>
 <td class="org-right">209</td>
 <td class="org-left">&#xa0;</td>
@@ -2756,7 +2756,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">its4\_R</td>
+<td class="org-left">its4_R</td>
 <td class="org-right">7</td>
 <td class="org-right">210</td>
 <td class="org-left">&#xa0;</td>
@@ -2769,7 +2769,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">psbAf-trnHr\_F</td>
+<td class="org-left">psbAf-trnHr_F</td>
 <td class="org-right">7</td>
 <td class="org-right">211</td>
 <td class="org-left">&#xa0;</td>
@@ -2782,7 +2782,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">psbAf-trnHr\_R</td>
+<td class="org-left">psbAf-trnHr_R</td>
 <td class="org-right">7</td>
 <td class="org-right">212</td>
 <td class="org-left">&#xa0;</td>
@@ -2899,7 +2899,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Phyllo COI\_FWD</td>
+<td class="org-left">Phyllo COI_FWD</td>
 <td class="org-right">7</td>
 <td class="org-right">221</td>
 <td class="org-left">&#xa0;</td>
@@ -2912,7 +2912,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Phyllo\_COI\_REV</td>
+<td class="org-left">Phyllo_COI_REV</td>
 <td class="org-right">7</td>
 <td class="org-right">222</td>
 <td class="org-left">&#xa0;</td>
@@ -2951,7 +2951,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana\_arvalis\_cytb</td>
+<td class="org-left">Rana_arvalis_cytb</td>
 <td class="org-right">Tagman 1</td>
 <td class="org-right">T1</td>
 <td class="org-left">&#xa0;</td>
@@ -2964,7 +2964,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Rana\_temporaria\_cytb</td>
+<td class="org-left">Rana_temporaria_cytb</td>
 <td class="org-right">Tagman 1</td>
 <td class="org-right">T2</td>
 <td class="org-left">&#xa0;</td>
@@ -3003,7 +3003,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Astast\_CO1\_P0357 (Flodkräfta</td>
+<td class="org-left">Astast_CO1_P0357 (Flodkräfta</td>
 <td class="org-right">Tagman 1</td>
 <td class="org-right">T5</td>
 <td class="org-left">&#xa0;</td>
@@ -3016,7 +3016,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bufo\_calamita\_16s</td>
+<td class="org-left">Bufo_calamita_16s</td>
 <td class="org-right">Tagman 1</td>
 <td class="org-right">T6</td>
 <td class="org-left">&#xa0;</td>
@@ -3029,7 +3029,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Paclen\_CO1\_P0357 (signalkräfta)</td>
+<td class="org-left">Paclen_CO1_P0357 (signalkräfta)</td>
 <td class="org-right">Tagman 1</td>
 <td class="org-right">T7</td>
 <td class="org-left">&#xa0;</td>
@@ -3055,7 +3055,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bufo\_bufo\_cyb</td>
+<td class="org-left">Bufo_bufo_cyb</td>
 <td class="org-right">Tagman 1</td>
 <td class="org-right">T9</td>
 <td class="org-left">&#xa0;</td>
@@ -3068,7 +3068,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Cottus\_gobio</td>
+<td class="org-left">Cottus_gobio</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T10</td>
 <td class="org-left">&#xa0;</td>
@@ -3081,7 +3081,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">P\_phoxinus</td>
+<td class="org-left">P_phoxinus</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T11</td>
 <td class="org-left">&#xa0;</td>
@@ -3094,7 +3094,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">S\_salar</td>
+<td class="org-left">S_salar</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T12</td>
 <td class="org-left">&#xa0;</td>
@@ -3107,7 +3107,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Salmo\_trutta</td>
+<td class="org-left">Salmo_trutta</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T13</td>
 <td class="org-left">&#xa0;</td>
@@ -3120,7 +3120,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Astacus\_astacus\_CO1</td>
+<td class="org-left">Astacus_astacus_CO1</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T14</td>
 <td class="org-left">&#xa0;</td>
@@ -3133,7 +3133,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Unio\_crassus\_M</td>
+<td class="org-left">Unio_crassus_M</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T15</td>
 <td class="org-left">&#xa0;</td>
@@ -3146,7 +3146,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Unio\_crassus\_F</td>
+<td class="org-left">Unio_crassus_F</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T16</td>
 <td class="org-left">&#xa0;</td>
@@ -3159,7 +3159,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Unio\_pictorum\_CO1</td>
+<td class="org-left">Unio_pictorum_CO1</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T17</td>
 <td class="org-left">&#xa0;</td>
@@ -3172,7 +3172,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Pseudan\_compl\_16s</td>
+<td class="org-left">Pseudan_compl_16s</td>
 <td class="org-right">Tagman 2</td>
 <td class="org-right">T18</td>
 <td class="org-left">&#xa0;</td>
