@@ -23,166 +23,277 @@ on this repo and will update with this information asap.
 
 ** Primers
 
-| Name                  | Box | Number | Species                | Type | Loci   | Modification          | Reference | Sequence |
-|-----------------------+-----+--------+------------------------+------+--------+-----------------------+-----------+----------|
-| LLCBL                 |   1 |      1 |                        | Std  |        |                       |           |          |
-| LLCBR                 |   1 |      2 |                        | Std  |        |                       |           |          |
-| Bcal16S_FWD           |   1 |      3 |                        |      |        |                       |           |          |
-| Bcal16S_REV           |   1 |      4 |                        |      |        |                       |           |          |
-| Bcalcytb_FWD          |   1 |      5 |                        |      |        |                       |           |          |
-| Bcalcytb_REV          |   1 |      6 |                        |      |        |                       |           |          |
-| EluCOI_R              |   1 |      8 |                        | Std  | Co1    |                       |           |          |
-| Dbugensis_cytb_F      |   1 |      9 |                        | Std  | Cytb   |                       |           |          |
-| Dbugensis_cytb_R      |   1 |     10 |                        | Std  | Cytb   |                       |           |          |
-| Dpolymorpha_cytb_F    |   1 |     11 | Drosophila polymorpha  | Std  | Cytb   |                       |           |          |
-| Dpolymorpha_cytb_R    |   1 |     12 | Drosophila polymorpha  |      | Cytb   |                       |           |          |
-| SilGla_Dloop_R        |   1 |     13 | Silurus glanis         |      | D-loop |                       |           |          |
-| SilGla_Dloop_L        |   1 |     14 | Silurus glanis         |      | D-loop |                       |           |          |
-| PacifasticusCOI_F     |   1 |     15 | Pacifasticus lacustris |      | Co1    |                       |           |          |
-| PacifasticusCOI_R     |   1 |     16 | Pacifasticus lacustris |      | Co1    |                       |           |          |
-| AstacusCOIF           |   1 |     17 | Astacus astacus        |      | Co1    |                       |           |          |
-| AstacusCO1R           |   1 |     18 | Astacus astacus        |      | Co1    |                       |           |          |
-| MarMa_16S1.1_F        |   1 |     19 |                        |      | 16S    |                       |           |          |
-| MarMa_16S2.1_F        |   1 |     20 |                        |      | 16S    |                       |           |          |
-| MarMa_16S1.2_R        |   1 |     21 |                        |      | 16S    |                       |           |          |
-| Angcytb_FWD           |   1 |     22 |                        |      | Cytb   |                       |           |          |
-| Angcytb_REV           |   1 |     23 |                        |      | Cytb   |                       |           |          |
-| Thymallus_COI_R       |   1 |     24 | Thymallus thymallus    |      | Co1    |                       |           |          |
-| Thymallus_COI_F       |   1 |     25 | Thymallus thymallus    |      | Co1    |                       |           |          |
-| Rut_rutS665           |   1 |     26 | Rutilus rutilus        |      |        |                       |           |          |
-| Rut_rutA665           |   1 |     27 | Rutilus rutilus        |      |        |                       |           |          |
-| T01Mussel16S_F        |   1 |     28 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T04Mussel16S_F        |   1 |     29 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T06Mussel16S_F        |   1 |     30 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T08Mussel16S_F        |   1 |     31 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T09Mussel16S_F        |   1 |     32 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T13Mussel16S_F        |   2 |     33 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T16Mussel16S_F        |   2 |     34 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T18Mussel16S_F        |   2 |     35 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T01Mussel16S_R        |   2 |     36 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T03Mussel16S_R        |   2 |     37 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T04Mussel16S_R        |   2 |     38 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T05Mussel16S_R        |   2 |     39 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T07Mussel16S_R        |   2 |     40 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T08Mussel16S_R        |   2 |     41 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T09Mussel16S_R        |   2 |     42 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T11Mussel16S_R        |   2 |     43 | Mussels                | NGS  | 16sRNA | Adapters for Illumina |           |          |
-| T01_12S_F             |   2 |     44 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T04_12S_F             |   2 |     45 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T016_12S_F            |   2 |     46 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T08_12S_F             |   2 |     47 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T09_12S_F             |   2 |     48 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T13_12S_F             |   2 |     49 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T16_12S_F             |   2 |     50 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T18_12S_F             |   2 |     51 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T01_12S_R             |   2 |     52 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T03_12S_R             |   2 |     53 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T04_12S_R             |   2 |     54 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T05_12S_R             |   2 |     55 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T07_12S_R             |   2 |     56 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T08_12S_R             |   2 |     57 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T09_12S_R             |   2 |     58 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| T11_12S_R             |   2 |     59 | Fish                   | NGS  | 12sRNA | Adapters for Illumina |           |          |
-| P2_Bird_sex           |   2 |     60 | Birds                  | Std  |        |                       |           |          |
-| P3_Bird_sex           |   2 |     61 | Birds                  | Std  |        |                       |           |          |
-| FR1d_t1               |   2 |     62 |                        | Std  |        |                       |           |          |
-| VF2_t1                |   2 |     63 |                        | Std  |        |                       |           |          |
-| mlCOIintF             |   2 |     64 |                        | Std  | Co1    |                       |           |          |
-| Pe2_F                 |   3 |     65 |                        |      |        |                       |           |          |
-| Pe4_F                 |   3 |     66 |                        |      |        |                       |           |          |
-| Pe7_F                 |   3 |     67 |                        |      |        |                       |           |          |
-| Pe8_F                 |   3 |     68 |                        |      |        |                       |           |          |
-| Pe5_F                 |   3 |     69 |                        |      |        |                       |           |          |
-| Pe16_F                |   3 |     70 |                        |      |        |                       |           |          |
-| Pe6_F                 |   3 |     71 |                        |      |        |                       |           |          |
-| Pe9_R                 |   3 |     72 |                        |      |        |                       |           |          |
-| Pe2_R                 |   3 |     73 |                        |      |        |                       |           |          |
-| Pe4_R                 |   3 |     74 |                        |      |        |                       |           |          |
-| Pe7_R                 |   3 |     75 |                        |      |        |                       |           |          |
-| Pe8_R                 |   3 |     76 |                        |      |        |                       |           |          |
-| Pe5_R                 |   3 |     77 |                        |      |        |                       |           |          |
-| Pe16_R                |   3 |     78 |                        |      |        |                       |           |          |
-| Pe6_R                 |   3 |     79 |                        |      |        |                       |           |          |
-| Pe9_F                 |   3 |     80 |                        |      |        |                       |           |          |
-| Np641_F               |   3 |     81 |                        |      |        |                       |           |          |
-| Np274_F               |   3 |     82 |                        |      |        |                       |           |          |
-| Np382_F               |   3 |     83 |                        |      |        |                       |           |          |
-| Np207_F               |   3 |     84 |                        |      |        |                       |           |          |
-| Np694_F               |   3 |     85 |                        |      |        |                       |           |          |
-| Uc5_F                 |   3 |     86 | Unio crassus           | SSR  |        |                       |           |          |
-| Uc15_F                |   3 |     87 | Unio crassus           | SSR  |        |                       |           |          |
-| Uc25_F                |   3 |     88 | Unio crassus           | SSR  |        |                       |           |          |
-| Np641_R               |   3 |     89 | Unio crassus           | SSR  |        |                       |           |          |
-| Np274_R               |   3 |     90 | Unio crassus           | SSR  |        |                       |           |          |
-| Np382_R               |   3 |     91 | Unio crassus           | SSR  |        |                       |           |          |
-| Np207_R               |   3 |     92 | Unio crassus           | SSR  |        |                       |           |          |
-| Np694_R               |   3 |     93 | Unio crassus           | SSR  |        |                       |           |          |
-| Uc5_R                 |   3 |     94 | Unio crassus           | SSR  |        |                       |           |          |
-| Uc15_R                |   3 |     95 | Unio crassus           | SSR  |        |                       |           |          |
-| Ucs25_R               |   3 |     96 | Unio crassus           | SSR  |        |                       |           |          |
-| Rana temporaria_CO1_F |   4 |     97 | Rana temporaria        |      | Co1    |                       |           |          |
-| Rana temporaria_CO1_R |   4 |     98 | Rana temporaria        |      | Co1    |                       |           |          |
-| Rana dalmatina_CO1_R  |   4 |     99 | Rana dalmatina         |      | Co1    |                       |           |          |
-| Rana dalmatina_CO1_F  |   4 |    100 | Rana dalmatina         |      | Co1    |                       |           |          |
-| Rana arvalis_CO1_F    |   4 |    101 | Rana arvalis           |      | Co1    |                       |           |          |
-| Rana arvalis_CO1_R    |   4 |    102 | Rana arvalis           |      | Co1    |                       |           |          |
-| Bufo bufo_CO1_F       |   4 |    103 | Bufo bufo              |      | Co1    |                       |           |          |
-| Bufo bufo_CO1_R       |   4 |    104 | Bufo bufo              |      | Co1    |                       |           |          |
-| Bufotes viridis_CO1_F |   4 |    105 | Bufotes viridis        |      | Co1    |                       |           |          |
-| Bufotes viridis_CO1_R |   4 |    106 | Bufotes viridis        |      | Co1    |                       |           |          |
-| DgHCO-2198            |   4 |    107 |                        |      | Co1    |                       |           |          |
-| dgLCO_1490            |   4 |    108 |                        |      | Co1    |                       |           |          |
-| jgHCO2198             |   4 |    109 |                        |      | Co1    |                       |           |          |
-| jgLCO1490             |   4 |    110 |                        |      | Co1    |                       |           |          |
-| LCOech1aF1            |   4 |    111 |                        |      | Co1    |                       |           |          |
-| CBDAsynFor            |   4 |    113 |                        |      |        |                       |           |          |
-| CBDA961Rev            |   4 |    114 |                        |      |        |                       |           |          |
-| THCAsynF              |   4 |    115 |                        |      |        |                       |           |          |
-| THCAsynR              |   4 |    116 |                        |      |        |                       |           |          |
-| C2                    |   4 |    117 |                        |      |        |                       |           |          |
-| E2                    |   4 |    118 |                        |      |        |                       |           |          |
-| TO1reColintF          |   4 |    119 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T01reHCO2198          |   4 |    120 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T03reColintF          |   4 |    121 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T03reHCO2198          |   4 |    122 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T04reCOlintF          |   4 |    123 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T04reHCO2198          |   4 |    124 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T05reCOlintF          |   4 |    125 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T05reHCO2198          |   4 |    126 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T07reCOlintF          |   4 |    127 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T07reHCO2198          |   4 |    128 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T08reCOlintF          |   5 |    129 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T09reHCO2198          |   5 |    130 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T09reCOlintF          |   5 |    131 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T09reHCO2198          |   5 |    132 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T11reCOlintf          |   5 |    133 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T11reHCO2198          |   5 |    134 |                        |      | Co1    | Adapters for Illumina |           |          |
-| T01KarpsF             |   5 |    135 |                        |      |        | Adapters for Illumina |           |          |
-| T02Karp16sR           |   5 |    136 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T02Karp16sF           |   5 |    137 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T04Karp16sR           |   5 |    138 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T04Karp16sF           |   5 |    139 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T07Karp16sR           |   5 |    140 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T05Karp16sF           |   5 |    141 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T08Karp16sR           |   5 |    142 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T08Karp16sF           |   5 |    143 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T10Karp16sR           |   5 |    144 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T10Karp16sF           |   5 |    145 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T11Karp16sR           |   5 |    146 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T12Karp16sF           |   5 |    147 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T12Karp14sR           |   5 |    148 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T13Karp16sF           |   5 |    149 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T14Karp16sR           |   5 |    150 |                        |      | 16s    | Adapters for Illumina |           |          |
-| T01_Mussel16S_F       |   5 |    151 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T01Mussel16s1R        |   5 |    152 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T02Mussel16s1F        |   5 |    153 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T04Mussel16sR         |   5 |    154 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T05Mussel16s1F        |   5 |    155 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T05Mussel16s1R        |   5 |    156 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T10Mussel16s1F        |   5 |    157 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T08Mussel16s1R        |   5 |    158 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T13Mussel16s1F        |   5 |    159 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
-| T12Mussel16s1R        |   5 |    160 | Mussels                | NGS  | 16s    | Adapters for Illumina |           |          |
+| Name                                   |      Box | Number | Species                | Type | Loci    | Modification          | Reference | Sequence |
+|----------------------------------------+----------+--------+------------------------+------+---------+-----------------------+-----------+----------|
+| LLCBL                                  |        1 |      1 |                        | Std  |         |                       |           |          |
+| LLCBR                                  |        1 |      2 |                        | Std  |         |                       |           |          |
+| Bcal16S_FWD                            |        1 |      3 |                        |      |         |                       |           |          |
+| Bcal16S_REV                            |        1 |      4 |                        |      |         |                       |           |          |
+| Bcalcytb_FWD                           |        1 |      5 |                        |      |         |                       |           |          |
+| Bcalcytb_REV                           |        1 |      6 |                        |      |         |                       |           |          |
+| EluCOI_R                               |        1 |      8 |                        | Std  | Co1     |                       |           |          |
+| Dbugensis_cytb_F                       |        1 |      9 |                        | Std  | Cytb    |                       |           |          |
+| Dbugensis_cytb_R                       |        1 |     10 |                        | Std  | Cytb    |                       |           |          |
+| Dpolymorpha_cytb_F                     |        1 |     11 | Drosophila polymorpha  | Std  | Cytb    |                       |           |          |
+| Dpolymorpha_cytb_R                     |        1 |     12 | Drosophila polymorpha  |      | Cytb    |                       |           |          |
+| SilGla_Dloop_R                         |        1 |     13 | Silurus glanis         |      | D-loop  |                       |           |          |
+| SilGla_Dloop_L                         |        1 |     14 | Silurus glanis         |      | D-loop  |                       |           |          |
+| PacifasticusCOI_F                      |        1 |     15 | Pacifasticus lacustris |      | Co1     |                       |           |          |
+| PacifasticusCOI_R                      |        1 |     16 | Pacifasticus lacustris |      | Co1     |                       |           |          |
+| AstacusCOIF                            |        1 |     17 | Astacus astacus        |      | Co1     |                       |           |          |
+| AstacusCO1R                            |        1 |     18 | Astacus astacus        |      | Co1     |                       |           |          |
+| MarMa_16S1.1_F                         |        1 |     19 |                        |      | 16S     |                       |           |          |
+| MarMa_16S2.1_F                         |        1 |     20 |                        |      | 16S     |                       |           |          |
+| MarMa_16S1.2_R                         |        1 |     21 |                        |      | 16S     |                       |           |          |
+| Angcytb_FWD                            |        1 |     22 |                        |      | Cytb    |                       |           |          |
+| Angcytb_REV                            |        1 |     23 |                        |      | Cytb    |                       |           |          |
+| Thymallus_COI_R                        |        1 |     24 | Thymallus thymallus    |      | Co1     |                       |           |          |
+| Thymallus_COI_F                        |        1 |     25 | Thymallus thymallus    |      | Co1     |                       |           |          |
+| Rut_rutS665                            |        1 |     26 | Rutilus rutilus        |      |         |                       |           |          |
+| Rut_rutA665                            |        1 |     27 | Rutilus rutilus        |      |         |                       |           |          |
+| T01Mussel16S_F                         |        1 |     28 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T04Mussel16S_F                         |        1 |     29 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T06Mussel16S_F                         |        1 |     30 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T08Mussel16S_F                         |        1 |     31 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T09Mussel16S_F                         |        1 |     32 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T13Mussel16S_F                         |        2 |     33 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T16Mussel16S_F                         |        2 |     34 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T18Mussel16S_F                         |        2 |     35 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T01Mussel16S_R                         |        2 |     36 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T03Mussel16S_R                         |        2 |     37 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T04Mussel16S_R                         |        2 |     38 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T05Mussel16S_R                         |        2 |     39 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T07Mussel16S_R                         |        2 |     40 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T08Mussel16S_R                         |        2 |     41 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T09Mussel16S_R                         |        2 |     42 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T11Mussel16S_R                         |        2 |     43 | Mussels                | NGS  | 16sRNA  | Adapters for Illumina |           |          |
+| T01_12S_F                              |        2 |     44 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T04_12S_F                              |        2 |     45 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T016_12S_F                             |        2 |     46 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T08_12S_F                              |        2 |     47 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T09_12S_F                              |        2 |     48 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T13_12S_F                              |        2 |     49 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T16_12S_F                              |        2 |     50 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T18_12S_F                              |        2 |     51 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T01_12S_R                              |        2 |     52 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T03_12S_R                              |        2 |     53 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T04_12S_R                              |        2 |     54 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T05_12S_R                              |        2 |     55 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T07_12S_R                              |        2 |     56 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T08_12S_R                              |        2 |     57 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T09_12S_R                              |        2 |     58 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| T11_12S_R                              |        2 |     59 | Fish                   | NGS  | 12sRNA  | Adapters for Illumina |           |          |
+| P2_Bird_sex                            |        2 |     60 | Birds                  | Std  |         |                       |           |          |
+| P3_Bird_sex                            |        2 |     61 | Birds                  | Std  |         |                       |           |          |
+| FR1d_t1                                |        2 |     62 |                        | Std  |         |                       |           |          |
+| VF2_t1                                 |        2 |     63 |                        | Std  |         |                       |           |          |
+| mlCOIintF                              |        2 |     64 |                        | Std  | Co1     |                       |           |          |
+| Pe2_F                                  |        3 |     65 |                        |      |         |                       |           |          |
+| Pe4_F                                  |        3 |     66 |                        |      |         |                       |           |          |
+| Pe7_F                                  |        3 |     67 |                        |      |         |                       |           |          |
+| Pe8_F                                  |        3 |     68 |                        |      |         |                       |           |          |
+| Pe5_F                                  |        3 |     69 |                        |      |         |                       |           |          |
+| Pe16_F                                 |        3 |     70 |                        |      |         |                       |           |          |
+| Pe6_F                                  |        3 |     71 |                        |      |         |                       |           |          |
+| Pe9_R                                  |        3 |     72 |                        |      |         |                       |           |          |
+| Pe2_R                                  |        3 |     73 |                        |      |         |                       |           |          |
+| Pe4_R                                  |        3 |     74 |                        |      |         |                       |           |          |
+| Pe7_R                                  |        3 |     75 |                        |      |         |                       |           |          |
+| Pe8_R                                  |        3 |     76 |                        |      |         |                       |           |          |
+| Pe5_R                                  |        3 |     77 |                        |      |         |                       |           |          |
+| Pe16_R                                 |        3 |     78 |                        |      |         |                       |           |          |
+| Pe6_R                                  |        3 |     79 |                        |      |         |                       |           |          |
+| Pe9_F                                  |        3 |     80 |                        |      |         |                       |           |          |
+| Np641_F                                |        3 |     81 |                        |      |         |                       |           |          |
+| Np274_F                                |        3 |     82 |                        |      |         |                       |           |          |
+| Np382_F                                |        3 |     83 |                        |      |         |                       |           |          |
+| Np207_F                                |        3 |     84 |                        |      |         |                       |           |          |
+| Np694_F                                |        3 |     85 |                        |      |         |                       |           |          |
+| Uc5_F                                  |        3 |     86 | Unio crassus           | SSR  |         |                       |           |          |
+| Uc15_F                                 |        3 |     87 | Unio crassus           | SSR  |         |                       |           |          |
+| Uc25_F                                 |        3 |     88 | Unio crassus           | SSR  |         |                       |           |          |
+| Np641_R                                |        3 |     89 | Unio crassus           | SSR  |         |                       |           |          |
+| Np274_R                                |        3 |     90 | Unio crassus           | SSR  |         |                       |           |          |
+| Np382_R                                |        3 |     91 | Unio crassus           | SSR  |         |                       |           |          |
+| Np207_R                                |        3 |     92 | Unio crassus           | SSR  |         |                       |           |          |
+| Np694_R                                |        3 |     93 | Unio crassus           | SSR  |         |                       |           |          |
+| Uc5_R                                  |        3 |     94 | Unio crassus           | SSR  |         |                       |           |          |
+| Uc15_R                                 |        3 |     95 | Unio crassus           | SSR  |         |                       |           |          |
+| Ucs25_R                                |        3 |     96 | Unio crassus           | SSR  |         |                       |           |          |
+| Rana temporaria_CO1_F                  |        4 |     97 | Rana temporaria        |      | Co1     |                       |           |          |
+| Rana temporaria_CO1_R                  |        4 |     98 | Rana temporaria        |      | Co1     |                       |           |          |
+| Rana dalmatina_CO1_R                   |        4 |     99 | Rana dalmatina         |      | Co1     |                       |           |          |
+| Rana dalmatina_CO1_F                   |        4 |    100 | Rana dalmatina         |      | Co1     |                       |           |          |
+| Rana arvalis_CO1_F                     |        4 |    101 | Rana arvalis           |      | Co1     |                       |           |          |
+| Rana arvalis_CO1_R                     |        4 |    102 | Rana arvalis           |      | Co1     |                       |           |          |
+| Bufo bufo_CO1_F                        |        4 |    103 | Bufo bufo              |      | Co1     |                       |           |          |
+| Bufo bufo_CO1_R                        |        4 |    104 | Bufo bufo              |      | Co1     |                       |           |          |
+| Bufotes viridis_CO1_F                  |        4 |    105 | Bufotes viridis        |      | Co1     |                       |           |          |
+| Bufotes viridis_CO1_R                  |        4 |    106 | Bufotes viridis        |      | Co1     |                       |           |          |
+| DgHCO-2198                             |        4 |    107 |                        |      | Co1     |                       |           |          |
+| dgLCO_1490                             |        4 |    108 |                        |      | Co1     |                       |           |          |
+| jgHCO2198                              |        4 |    109 |                        |      | Co1     |                       |           |          |
+| jgLCO1490                              |        4 |    110 |                        |      | Co1     |                       |           |          |
+| LCOech1aF1                             |        4 |    111 |                        |      | Co1     |                       |           |          |
+| CBDAsynFor                             |        4 |    113 |                        |      |         |                       |           |          |
+| CBDA961Rev                             |        4 |    114 |                        |      |         |                       |           |          |
+| THCAsynF                               |        4 |    115 |                        |      |         |                       |           |          |
+| THCAsynR                               |        4 |    116 |                        |      |         |                       |           |          |
+| C2                                     |        4 |    117 |                        |      |         |                       |           |          |
+| E2                                     |        4 |    118 |                        |      |         |                       |           |          |
+| TO1reColintF                           |        4 |    119 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T01reHCO2198                           |        4 |    120 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T03reColintF                           |        4 |    121 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T03reHCO2198                           |        4 |    122 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T04reCOlintF                           |        4 |    123 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T04reHCO2198                           |        4 |    124 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T05reCOlintF                           |        4 |    125 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T05reHCO2198                           |        4 |    126 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T07reCOlintF                           |        4 |    127 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T07reHCO2198                           |        4 |    128 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T08reCOlintF                           |        5 |    129 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T09reHCO2198                           |        5 |    130 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T09reCOlintF                           |        5 |    131 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T09reHCO2198                           |        5 |    132 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T11reCOlintf                           |        5 |    133 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T11reHCO2198                           |        5 |    134 |                        |      | Co1     | Adapters for Illumina |           |          |
+| T01KarpsF                              |        5 |    135 |                        |      |         | Adapters for Illumina |           |          |
+| T02Karp16sR                            |        5 |    136 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T02Karp16sF                            |        5 |    137 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T04Karp16sR                            |        5 |    138 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T04Karp16sF                            |        5 |    139 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T07Karp16sR                            |        5 |    140 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T05Karp16sF                            |        5 |    141 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T08Karp16sR                            |        5 |    142 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T08Karp16sF                            |        5 |    143 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T10Karp16sR                            |        5 |    144 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T10Karp16sF                            |        5 |    145 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T11Karp16sR                            |        5 |    146 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T12Karp16sF                            |        5 |    147 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T12Karp14sR                            |        5 |    148 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T13Karp16sF                            |        5 |    149 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T14Karp16sR                            |        5 |    150 |                        |      | 16s     | Adapters for Illumina |           |          |
+| T01_Mussel16S_F                        |        5 |    151 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01Mussel16s1R                         |        5 |    152 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T02Mussel16s1F                         |        5 |    153 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T04Mussel16sR                          |        5 |    154 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T05Mussel16s1F                         |        5 |    155 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T05Mussel16s1R                         |        5 |    156 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T10Mussel16s1F                         |        5 |    157 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T08Mussel16s1R                         |        5 |    158 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T13Mussel16s1F                         |        5 |    159 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T12Mussel16s1R                         |        5 |    160 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01_16S1                               |        6 |    161 |                        | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01_16S2                               |        6 |    162 |                        | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01_F52                                |        6 |    163 |                        | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01_R193                               |        6 |    164 |                        | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01_16S3                               |        6 |    165 |                        | NGS  | 16s     | Adapters for Illumina |           |          |
+| T01_16S4                               |        6 |    166 |                        | NGS  | 16s     | Adapters for Illumina |           |          |
+| 16SintF                                |        6 |    167 |                        |      | 16s     |                       |           |          |
+| 16SintR                                |        6 |    168 |                        |      | 16s     |                       |           |          |
+| T01_trnL-c                             |        6 |    169 |                        | NGS  | trnL    | Adapters for Illumina |           |          |
+| T07Mussel16s1F                         |        6 |    170 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T07Mussel16s1R                         |        6 |    171 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T11Mussel16S1F                         |        6 |    172 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T11Mussel16S1R                         |        6 |    173 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T14Mussel16S1F                         |        6 |    174 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| T13Mussel16s1R                         |        6 |    175 | Mussels                | NGS  | 16s     | Adapters for Illumina |           |          |
+| 494LMod                                |        6 |    177 |                        |      |         |                       |           |          |
+| CYTBLmod                               |        6 |    178 |                        |      | Cytb    |                       |           |          |
+| CA1b6_FWD                              |        6 |    179 |                        |      |         |                       |           |          |
+| R1CA1b5_FWD                            |        6 |    180 |                        |      |         |                       |           |          |
+| CA_1b6_REV                             |        6 |    181 |                        |      |         |                       |           |          |
+| R1CA1b5_REV                            |        6 |    182 |                        |      |         |                       |           |          |
+| ITS1F_F                                |        6 |    183 |                        |      | ITS     |                       |           |          |
+| ITS4B_R                                |        6 |    184 |                        |      | ITS     |                       |           |          |
+| rbcL_R                                 |        6 |    185 |                        |      | Rubisco |                       |           |          |
+| rbcL_F                                 |        6 |    186 |                        |      | Rubisco |                       |           |          |
+| reHCO2198                              |        6 |    187 |                        |      |         |                       |           |          |
+| reLCO1490                              |        6 |    188 |                        |      |         |                       |           |          |
+| VR1d_t1                                |        6 |    189 |                        |      |         |                       |           |          |
+| VF1d_t1                                |        6 |    190 |                        |      |         |                       |           |          |
+| its1_F                                 |        6 |    191 |                        |      | ITS     |                       |           |          |
+| its1_rev                               |        6 |    192 |                        |      | ITS     |                       |           |          |
+| uc69-F                                 |        7 |    193 | Unio crassus           |      | SSR     |                       |           |          |
+| uc69-R                                 |        7 |    194 | Unio crassus           |      | SSR     |                       |           |          |
+| uc77-F                                 |        7 |    195 | Unio crassus           |      | SSR     |                       |           |          |
+| uc77-R                                 |        7 |    196 | Unio crassus           |      | SSR     |                       |           |          |
+| uc7-F                                  |        7 |    197 | Unio crassus           |      | SSR     |                       |           |          |
+| uc7-R                                  |        7 |    198 | Unio crassus           |      | SSR     |                       |           |          |
+| uc16-F                                 |        7 |    199 | Unio crassus           |      | SSR     |                       |           |          |
+| uc16-R                                 |        7 |    200 | Unio crassus           |      | SSR     |                       |           |          |
+| uc39-F                                 |        7 |    201 | Unio crassus           |      | SSR     |                       |           |          |
+| uc39-R                                 |        7 |    202 | Unio crassus           |      | SSR     |                       |           |          |
+| uc19-F                                 |        7 |    203 | Unio crassus           |      | SSR     |                       |           |          |
+| uc19-R                                 |        7 |    204 | Unio crassus           |      | SSR     |                       |           |          |
+| matK_3F                                |        7 |    205 |                        |      | MatK    |                       |           |          |
+| matK_1R                                |        7 |    206 |                        |      | MatK    |                       |           |          |
+| trnLf-trnFr_F                          |        7 |    207 |                        |      | trnL    |                       |           |          |
+| trnLf-trnFr-R                          |        7 |    208 |                        |      | trnL    |                       |           |          |
+| ITS_5                                  |        7 |    209 |                        |      | ITS     |                       |           |          |
+| its4_R                                 |        7 |    210 |                        |      | ITS     |                       |           |          |
+| psbAf-trnHr_F                          |        7 |    211 |                        |      | trnH    |                       |           |          |
+| psbAf-trnHr_R                          |        7 |    212 |                        |      | trnH    |                       |           |          |
+| remlCOlintF                            |        7 |    213 |                        |      |         |                       |           |          |
+| remlCOlintR                            |        7 |    214 |                        |      |         |                       |           |          |
+| DLH-can                                |        7 |    215 |                        |      |         |                       |           |          |
+| Thr1                                   |        7 |    216 |                        |      |         |                       |           |          |
+| ITS1F                                  |        7 |    217 |                        |      | ITS     |                       |           |          |
+| LR3                                    |        7 |    218 |                        |      |         |                       |           |          |
+| 5.8S Chytr                             |        7 |    219 |                        |      |         |                       |           |          |
+| ITS1-3 Chytr                           |        7 |    220 |                        |      | ITS     |                       |           |          |
+| Phyllo COI_FWD                         |        7 |    221 |                        |      |         |                       |           |          |
+| Phyllo_COI_REV                         |        7 |    222 |                        |      |         |                       |           |          |
+| igsF                                   |        7 |    223 |                        |      |         |                       |           |          |
+| igsR                                   |        7 |    224 |                        |      |         |                       |           |          |
+| Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
+| Rana_temporaria_cytb                   | Tagman 1 |     T2 |                        |      | qPCR    |                       |           |          |
+| LVCB (Mindre vattensalamander)         | Tagman 1 |     T3 |                        |      | qPCR    |                       |           |          |
+| PFCB (lökgroda)                        | Tagman 1 |     T4 |                        |      | qPCR    |                       |           |          |
+| Astast_CO1_P0357 (Flodkräfta           | Tagman 1 |     T5 |                        |      | qPCR    |                       |           |          |
+| Bufo_calamita_16s                      | Tagman 1 |     T6 |                        |      | qPCR    |                       |           |          |
+| Paclen_CO1_P0357 (signalkräfta)        | Tagman 1 |     T7 |                        |      | qPCR    |                       |           |          |
+| TCCB (Större vattensalamander)         | Tagman 1 |     T8 |                        |      | qPCR    |                       |           |          |
+| Bufo_bufo_cyb                          | Tagman 1 |     T9 |                        |      | qPCR    |                       |           |          |
+| Cottus_gobio                           | Tagman 2 |    T10 |                        |      | qPCR    |                       |           |          |
+| P_phoxinus                             | Tagman 2 |    T11 |                        |      | qPCR    |                       |           |          |
+| S_salar                                | Tagman 2 |    T12 |                        |      | qPCR    |                       |           |          |
+| Salmo_trutta                           | Tagman 2 |    T13 |                        |      | qPCR    |                       |           |          |
+| Astacus_astacus_CO1                    | Tagman 2 |    T14 |                        |      | qPCR    |                       |           |          |
+| Unio_crassus_M                         | Tagman 2 |    T15 |                        |      | qPCR    |                       |           |          |
+| Unio_crassus_F                         | Tagman 2 |    T16 |                        |      | qPCR    |                       |           |          |
+| Unio_pictorum_CO1                      | Tagman 2 |    T17 |                        |      | qPCR    |                       |           |          |
+| Pseudan_compl_16s                      | Tagman 2 |    T18 |                        |      | qPCR    |                       |           |          |
+| Hirudo (blodigel)                      | Tagman 3 |    T19 |                        |      | qPCR    |                       |           |          |
+| LpCO1b (Citronfläckad kärrtrollslända) | Tagman 3 |    T20 |                        |      | qPCR    |                       |           |          |
+| Aspius                                 | Tagman 3 |    T21 |                        |      | qPCR    |                       |           |          |
+| DytlatP (Dytiscus lattisumus)          | Tagman 3 |    T22 |                        |      | qPCR    |                       |           |          |
+
+** qPCR reaction setup
+
+For most of the qPCR reactions we are running a simple standard
+protocol. We run on a CFX96 Touch™ Real-Time PCR Detection System from
+BIO-RAD. For standard eDNA water samples we run between 3 and 6
+technical replicates. Fish species is often more stable and there is
+no need to run large number of replicates. but insects and many
+organism that are more sporadically found in the water, tend to
+require more replicates to be able to get high quality data.
 
 
+** SSR 
 
+*** Bear
+
+**** Tissue
+
+**** 
+
+*** Unio crassus
+
+*** 
+
+** Standard amplification
+The standard amplification procedures for either sanger sequencing or
+other applications we use Illustra Ready-to-go PCR beads. For more
+complicated PCR reactions that require high fidelity PCR products we
+use Phusion enzymes
