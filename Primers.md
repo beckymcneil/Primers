@@ -43,7 +43,7 @@ on this repo and will update with this information asap.
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-<colgroup>
+<colgroup width="200">
 <col  class="org-left" />
 
 <col  class="org-right" />
