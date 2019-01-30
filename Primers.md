@@ -104,7 +104,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bcal16S\_FWD</td>
+<td class="org-left">Bcal16S_FWD</td>
 <td class="org-right">1</td>
 <td class="org-right">3</td>
 <td class="org-left">&#xa0;</td>
@@ -117,7 +117,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bcal16S\_REV</td>
+<td class="org-left">Bcal16S_REV</td>
 <td class="org-right">1</td>
 <td class="org-right">4</td>
 <td class="org-left">&#xa0;</td>
@@ -130,7 +130,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bcalcytb\_FWD</td>
+<td class="org-left">Bcalcytb_FWD</td>
 <td class="org-right">1</td>
 <td class="org-right">5</td>
 <td class="org-left">&#xa0;</td>
@@ -143,7 +143,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Bcalcytb\_REV</td>
+<td class="org-left">Bcalcytb_REV</td>
 <td class="org-right">1</td>
 <td class="org-right">6</td>
 <td class="org-left">&#xa0;</td>
@@ -156,7 +156,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">EluCOI\_R</td>
+<td class="org-left">EluCOI_R</td>
 <td class="org-right">1</td>
 <td class="org-right">8</td>
 <td class="org-left">&#xa0;</td>
@@ -169,7 +169,7 @@ on this repo and will update with this information asap.
 
 
 <tr>
-<td class="org-left">Dbugensis\_cytb\_F</td>
+<td class="org-left">Dbugensis_cytb_F</td>
 <td class="org-right">1</td>
 <td class="org-right">9</td>
 <td class="org-left">&#xa0;</td>
