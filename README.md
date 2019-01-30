@@ -5,5 +5,7 @@ If you want to add a primers or other information to the list. Add the physical 
 
 To just browse the list of primers visit  https://cgi-nrm.github.io/Primers
 
-The list is far from complete and if you are interested in particular species do not hesitate to contack us at cgi@nrm.se
+The list is far from complete and if you are interested in particular species do not hesitate to contact us at cgi@nrm.se
+
+https://cgi-nrm.github.io/Primers/Primers
 
