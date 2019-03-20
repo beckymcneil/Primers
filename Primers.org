@@ -246,19 +246,19 @@ on this repo and will update with this information asap.
 | Phyllo_COI_REV                         |        7 |    222 |                        |      |         |                       |           |          |
 | igsF                                   |        7 |    223 |                        |      |         |                       |           |          |
 | igsR                                   |        7 |    224 |                        |      |         |                       |           |          |
-| LO        |          |                 |        8 |    225 |                        |      |         |
+| LO        |        8 |    225 |                       
 |
-| H1046     |          |                 |        8 |    226 |                        |      |
+| H1046     |        8 |    226 |                       
 |
-| dogdl2R   |          |                 |        8 |    227 |
+| dogdl2R   |        8 |    227 |
 |
-| dogdl2F   |          |                 |        8 |    228 |
+| dogdl2F   |        8 |    228 |
 |
-| Ele-ND5-F3|          |                 |        8 |    229 |
+| Ele-ND5-F3|        8 |    229 |
 |
-| Ele-ND5-R3|          |                 |        8 |    230 |
+| Ele-ND5-R3|        8 |    230 |
 |
-| Ele-ND5-F1|          |                 |        8 |    231 |
+| Ele-ND5-F1|        8 |    231 |
 |
 | Ele-ND5-R1|        8 |    232 |
 |
