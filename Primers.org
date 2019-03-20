@@ -248,57 +248,57 @@ on this repo and will update with this information asap.
 | igsR                                   |        7 |    224 |                        |      |         |                       |           |          |
 | LO        |        8 |    225 | | | | | |                     
 |
-| H1046     |        8 |    226 |                       
+| H1046     |        8 |    226 | | | | | |                      
 |
-| dogdl2R   |        8 |    227 |
+| dogdl2R   |        8 |    227 | | | | | | 
 |
-| dogdl2F   |        8 |    228 |
+| dogdl2F   |        8 |    228 | | | | | | 
 |
-| Ele-ND5-F3|        8 |    229 |
+| Ele-ND5-F3|        8 |    229 | | | | | | 
 |
-| Ele-ND5-R3|        8 |    230 |
+| Ele-ND5-R3|        8 |    230 | | | | | | 
 |
-| Ele-ND5-F1|        8 |    231 |
+| Ele-ND5-F1|        8 |    231 | | | | | | 
 |
-| Ele-ND5-R1|        8 |    232 |
+| Ele-ND5-R1|        8 |    232 | | | | | | 
 |
-| 16S-Frag1aR|	8| 233|
+| 16S-Frag1aR|	8| 233| | | | | | 
 |
-|16S-Frag1aF|	8| 234|
+|16S-Frag1aF|	8| 234| | | | | | 
 |
-|16S-Frag2aF|	8| 235|
+|16S-Frag2aF|	8| 235| | | | | | 
 |
-|16S-Frag2aR|	8| 236|
+|16S-Frag2aR|	8| 236| | | | | | 
 |
-|Mam16S1|8|237|
+|Mam16S1|8|237| | | | | | 
 |
-|Mam16S2|8|238|
+|Mam16S2|8|238| | | | | | 
 |
-|Lx1R|8|239|
+|Lx1R|8|239| | | | | | 
 |
-|Lx1F|8|240|
+|Lx1F|8|240| | | | | | 
 |
-|Fisk2_FWD|8|241|
+|Fisk2_FWD|8|241| | | | | | 
 |
-|Fisk2_REV|8|242|
+|Fisk2_REV|8|242| | | | | | 
 |
-|Vert_16S_F1|8|243|
+|Vert_16S_F1|8|243| | | | | | 
 |
-|Vert_16S_R1|8|244|
+|Vert_16S_R1|8|244| | | | | | 
 |
-|CHD_1F|8|245|
+|CHD_1F|8|245| | | | | | 
 |
-|CHD_1R|8|246|
+|CHD_1R|8|246| | | | | | 
 |
-|Mussels ITS-1F|8|247|
+|Mussels ITS-1F|8|247| | | | | | 
 |
-|Mussels ITS-1R|8|248|
+|Mussels ITS-1R|8|248| | | | | | 
 |
-|MiFish_U-F|8|249|
+|MiFish_U-F|8|249| | | | | | 
 |
-|12S_V5_F|9|250|
+|12S_V5_F|9|250| | | | | | 
 |
-|12S_V5_R|9|251|
+|12S_V5_R|9|251| | | | | | 
 |
 | Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
 | Rana_temporaria_cytb                   | Tagman 1 |     T2 |                        |      | qPCR    |                       |           |          |
