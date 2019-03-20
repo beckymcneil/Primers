@@ -274,6 +274,32 @@ on this repo and will update with this information asap.
 |
 |Mam16S2|8|238|
 |
+|Lx1R|8|239|
+|
+|Lx1F|8|240|
+|
+|Fisk2_FWD|8|241|
+|
+|Fisk2_REV|8|242|
+|
+|Vert_16S_F1|8|243|
+|
+|Vert_16S_R1|8|244|
+|
+|CHD_1F|8|245|
+|
+|CHD_1R|8|246|
+|
+|Mussels ITS-1F|8|247|
+|
+|Mussels ITS-1R|8|248|
+|
+|MiFish_U-F|8|249|
+|
+|12S_V5_F|9|250|
+|
+|12S_V5_R|9|251|
+|
 | Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
 | Rana_temporaria_cytb                   | Tagman 1 |     T2 |                        |      | qPCR    |                       |           |          |
 | LVCB (Mindre vattensalamander)         | Tagman 1 |     T3 |                        |      | qPCR    |                       |           |          |
