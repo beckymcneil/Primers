@@ -260,7 +260,7 @@ on this repo and will update with this information asap.
 |
 | Ele-ND5-F1|          |                 |        8 |    231 |
 |
-| Ele-ND5-R1|          |                 |        8 |    232 |
+| Ele-ND5-R1|        8 |    232 |
 |
 | 16S-Frag1aR|	8| 233|
 | Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
