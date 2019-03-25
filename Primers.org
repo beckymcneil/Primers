@@ -3,7 +3,7 @@ This repo contains material and methods that we use at the Center for
 Genetic Identification at NRM. We strive at using published methods
 and are not unless needed testing new methods. 
 
-Most of our projects fall into four different categories. 
+Most of our projects fall into three main categories. 
 
 ** Species determination from tissue samples or remains from organisms.
 This is the most common projects at CGI. We have successfully
@@ -16,12 +16,30 @@ sequencing.
 
 In many cases we can use general primers that can amplify for example
 12s or 16s in a given organism groups. If we are studying mammals we
-tend to use species specific amplicons to avoid amplifying human DNA
+tend to use species specific primers to avoid amplifying human DNA
 that is often abundant in the samples we recieve.
+
+** Species identification from environmental samples
+eDNA anaysis is increasing popular in environmental monitoring
+programs. Today we are currently using two methods for detecting DNA
+traces from environmental samples. The first method look a individual
+species and detect DNA traces by using qPCR. To be successful one need
+to know which species one wants to detect and identify (or develop) a
+method that are specific for the species. For many freshwater fish
+species, frogs, salamanders found in Sweden there are methods
+available.
+
+| Species               | Method | Annealing | Tested at CGI | Comment                 | Reference   |
+|-----------------------+--------+-----------+---------------+-------------------------+-------------|
+| Aspius aspius         | Taqman |        60 | Yes           |                         | Dev. at CGI |
+| Salmo trutta          | Taqman |   60 (55) | Yes           | Works at 55-60          |             |
+| Salmo salar           | Taqman |        60 | Yes           |                         |             |
+| Salvelinus alpinus    | Taqman |        55 | Yes           | Hard to sep. Salvelinus |             |
+| Salvelinus fontinalis | Taqman |        55 | Yes           | Hard to sep. Salvelinus |             |
+| Lota lota             | Taqman |        60 | Yes           |                         |             |
 
 
 ** CGI primers
-
 This repo holds information on the primers that we have in stock at
 CGI. Most our primers that we use are described in the literature.
 
@@ -42,7 +60,7 @@ Note that the list will over time have sequence and references, but if
 you are in need of a sequence or reference right now, create a "Issue"
 on this repo and will update with this information asap.
 
-** Primers
+*** Primers
 
 | Name                                   |      Box | Number | Species                | Type | Loci    | Modification          | Reference | Sequence |
 |----------------------------------------+----------+--------+------------------------+------+---------+-----------------------+-----------+----------|
