@@ -300,6 +300,26 @@ on this repo and will update with this information asap.
 |
 |12S_V5_R|9|251| | | | | | 
 |
+| 16S-Frag1aF_M13_F|9|252| | | | | |
+|
+| 16S-Frag1aR_M13_R|9|253| | | | | |
+|
+| 16S-Frag2aF_M13_F|9|254| | | | | |
+|
+| 16S-Frag2aR_M13_R|9|255| | | | | |
+|
+| MiFish-U-F_M13F|9|256| | | | | |
+|
+| MiFish-U-R_M13R|9|257| | | | | |
+|
+| 12S-V5_F_M13F|9|258| | | | | |
+|
+| 12S-V5_R_M13R|9|259| | | | | |
+|
+| M13_F|9|260| | | | | |
+|
+| M13_R|9|260| | | | | |
+|
 | Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
 | Rana_temporaria_cytb                   | Tagman 1 |     T2 |                        |      | qPCR    |                       |           |          |
 | LVCB (Mindre vattensalamander)         | Tagman 1 |     T3 |                        |      | qPCR    |                       |           |          |
