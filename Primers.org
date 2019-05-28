@@ -342,6 +342,7 @@ on this repo and will update with this information asap.
 | LpCO1b (Citronfläckad kärrtrollslända) | Tagman 3 |    T20 |                        |      | qPCR    |                       |           |          |
 | Aspius                                 | Tagman 3 |    T21 |                        |      | qPCR    |                       |           |          |
 | DytlatP (Dytiscus lattisumus)          | Tagman 3 |    T22 |                        |      | qPCR    |                       |           |          |
+|Wolverine	| Tagman 4 |    T28 |                        |      | qPCR    |                       
 
 ** qPCR reaction setup
 
