@@ -318,7 +318,15 @@ on this repo and will update with this information asap.
 |
 | M13_F|9|260| | | | | |
 |
-| M13_R|9|260| | | | | |
+| M13_R|9|261| | | | | |
+|
+| 12S_1380R_M13R|9|262| | | |12S | |
+|
+| 12S_30F_M13_F|9|263| | | |12S | |
+|
+| L152|9|264| | |Cyprinidae|Cytb | |
+|
+| H152|9|265| | |Cyprinidae|Cytb | |
 |
 | Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
 | Rana_temporaria_cytb                   | Tagman 1 |     T2 |                        |      | qPCR    |                       |           |          |
