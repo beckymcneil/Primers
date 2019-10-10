@@ -350,7 +350,10 @@ on this repo and will update with this information asap.
 | LpCO1b (Citronfläckad kärrtrollslända) | Tagman 3 |    T20 |                        |      | qPCR    |                       |           |          |
 | Aspius                                 | Tagman 3 |    T21 |                        |      | qPCR    |                       |           |          |
 | DytlatP (Dytiscus lattisumus)          | Tagman 3 |    T22 |                        |      | qPCR    |                       |           |          |
-|Wolverine	| Tagman 4 |    T28 |                        |      | qPCR    |                       
+|Wolverine	| Tagman 4 |    T28 |                        |      | qPCR    |
+|Siluris glansis	| Tagman 4 |    T29 |                        |      | qPCR    |
+|El_cytb (Esox Lucius)	| Tagman 4 |    T30 |                        |      | qPCR    |
+|Nitella mucronata	| Tagman 4 |    T31 |                        |      | qPCR    |
 
 ** qPCR reaction setup
 
