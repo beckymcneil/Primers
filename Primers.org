@@ -328,6 +328,14 @@ on this repo and will update with this information asap.
 |
 | H152|9|265| | |Cyprinidae|Cytb | |
 |
+| BC_F3|9|266| | |Mammals|COI | |
+|
+| BC_R2|9|267| | |Mammals|COI | |
+|
+| ZF_FWD|9|268| | |ZF|Sex | |
+|
+| ZF_REV|9|269| | |ZF|Sex | |
+|
 | Rana_arvalis_cytb                      | Tagman 1 |     T1 |                        |      | qPCR    |                       |           |          |
 | Rana_temporaria_cytb                   | Tagman 1 |     T2 |                        |      | qPCR    |                       |           |          |
 | LVCB (Mindre vattensalamander)         | Tagman 1 |     T3 |                        |      | qPCR    |                       |           |          |
