@@ -364,7 +364,7 @@ on this repo and will update with this information asap.
 |Nitella mucronata	| Tagman 4 |    T31 |                        |      | qPCR    |
 
 
-LepF1 LepR1 finns i Låda 3 Insect primers
+LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4
 ** qPCR reaction setup
 
 For most of the qPCR reactions we are running a simple standard
