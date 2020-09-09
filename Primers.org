@@ -326,7 +326,7 @@ on this repo and will update with this information asap.
 |
 | L152|9|264| | |Cyprinidae|Cytb | |
 |
-| H152|9|265| | |Cyprinidae|Cytb | |
+| H165|9|265| | |Cyprinidae|Cytb | |
 |
 | BC_F3|9|266| | |Mammals|COI | |
 |
@@ -363,6 +363,8 @@ on this repo and will update with this information asap.
 |El_cytb (Esox Lucius)	| Tagman 4 |    T30 |                        |      | qPCR    |
 |Nitella mucronata	| Tagman 4 |    T31 |                        |      | qPCR    |
 
+
+LepF1 LepR1 finns i Låda 3 Insect primers
 ** qPCR reaction setup
 
 For most of the qPCR reactions we are running a simple standard
