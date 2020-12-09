@@ -3522,6 +3522,502 @@ on this repo and will update with this information asap.
 <td class="org-left">CTATAGCTTATCCCGGCAGTA</td>
 </tr>
 
+
+<tr>
+<td class="org-left">LleC090_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TCAGACACAACTAACCGACC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LleC090_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GGCGCTGTCCAGAACTGA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LCO1_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CACGGGACAATTTGGATGTTTTAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LCO1_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGGGGGCAGCATACAAGAGACAAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LleA029_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTTACCAGCATCCCCCAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LleA029_r</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CATTTCACTCACTGAAGGAGAAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LleA150_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AAAGTGTAAATCCAGATGTTTAAGT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LleA150_r</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AAAGGATAATTTTCAGAGTAACGAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL130_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCGATGGCACTGATGGA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL130_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TAAAGAGCTCGTTTTGAAGCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LceC1_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGGTGTTGGTTCCTCCCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LceC1_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGTTATCTCGGTTTCACGAGC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lsou05_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CTGAAGAAGACCCTGGTTCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lsou05_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CCCACATCTGCTGACTCTGAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1T2_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGTTTGCTCAGACAAAACTTTCA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1T2_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ACGGGTCTCAGATGATGCTC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CypG24_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CTGCCGCATCAGAGATAAACACTT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CypG24_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGGCGGTAAGGGTAGACCAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">N7K4_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ACGAGCATCAGTATCCAGAGACAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">N7K4_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CATGTTTCCACATCTGAGCTAAAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL161_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GACTCGCAGAGCTCCTTCAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL161_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GGCGCTTGATTCAGTCTTTC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Z21908_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ATTGATTAGGTCATTGCCCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Z21908_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGGAGTCATCGCTGGTGAGT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1_2b_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTTGCACTAGTAACGAGCATCA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1_2b_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CAGCACAGTTTCTCCATCCA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1_153_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCACAGCTCTAATCGGTCACT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1_153_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TATGGTCAAACACGGGTCAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lsou34_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CCAGACAGGGTGATGATTCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lsou34_r</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTAGCGACGTTCAGGTCTCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Rser10_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGCGTAATCGTGAAGCGGTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Rser10_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCCACTAAAGCGCAGAAGCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lid8_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AAATGCTAATGTTTCATCCATA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Lid8_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AAGCCTTCCTCTTGTTCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1_98_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ATTGTTTTCATTTTGTCAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">BL1_98_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CCGAGTGTCAGAGTTATT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CtoF_172_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ACCAAGGTGAAAGCCTGTAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">CtoF_172_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GGACACGATGACAACGG</td>
+</tr>
+
+
+<tr>
 </tbody>
 </table>
 
