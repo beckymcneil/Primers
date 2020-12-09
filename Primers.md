@@ -3245,7 +3245,7 @@ on this repo and will update with this information asap.
 <td class="org-left">COI</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">GGTCAACAAATCATAAAGATATTGG</td>
 </tr>
 
 
@@ -3258,9 +3258,216 @@ on this repo and will update with this information asap.
 <td class="org-left">COI</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">TAAACTTCAGGGTGACCAAAAAATCA</td>
 </tr>
 
+
+<tr>
+<td class="org-left">G10L_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CAGGACAGGATATTGACATTGA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">G10L_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GATACAGAAACCTACCCATGCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU51_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCCAGAATCCTAAGAGACCT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU51_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTTTCTTGAAAGGTTAGATGGAAGAGATG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU59_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCTGCTTTGGGACATTGTAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU59_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTTTCTTCAATCAGGCATGGGGAAGAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU50_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTCTCTGTCATTTCCCCATC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU50_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GAGCAGGAAACATGTAAGATG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU05_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ATGTGGATACAGTGGAATAGACC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU05_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTTTCTTGTGACATGAACTGAAACTTGTTAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU09_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCCAGCATGTGGGTATATGTGT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU09_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTTTCTTAGCAGCATATTTTTGGCTTTGAAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU10_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTCAGATTTCATCAGTTTGAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU10_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTTGTATCTTGGTTGTCAGC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU23_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCCTGTGTGCTATTTTATCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">MU23_R</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTTTCTTTTGCTTGCCTAGACCACC</td>
+</tr>
 
 </tbody>
 </table>
