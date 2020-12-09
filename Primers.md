@@ -4018,6 +4018,143 @@ on this repo and will update with this information asap.
 
 
 <tr>
+<td class="org-left">Hg1_4 _F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CTCCAAGACGACTGAAACCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg1_4 _R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TACCATATCTTTGTGGCTCTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg2_3 _F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CCAATGACAACTTACTGAGAAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg2_3 _R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGTGAAGTGCTCTGTTTTGC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg3_6 _F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGATCACATTCTTTTTATGGCTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg3_6 _R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GATTGGATAAAGAAGATGTGAGGG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg4_2 _F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AATCGAAATGCTGAGCCTCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg4_2 _R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGATTTGACTTCCCTTCCCTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg6_1_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">PET</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGCACCAGAGCCTAAGCAGACTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hg6_1_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CCACCAGCCAGTTCACCCAG</td>
+</tr>
+
+
+
+
+
+
+
+
+
+<tr>
 </tbody>
 </table>
 
