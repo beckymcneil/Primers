@@ -3497,6 +3497,31 @@ on this repo and will update with this information asap.
 </tr>
 
 
+<tr>
+<td class="org-left">Ca1_F</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AAGACGATGCTGGATGTTTAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Ca1_R</td>
+<td class="org-right">12</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Fish</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CTATAGCTTATCCCGGCAGTA</td>
+</tr>
+
 </tbody>
 </table>
 
