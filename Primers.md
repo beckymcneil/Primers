@@ -3469,6 +3469,34 @@ on this repo and will update with this information asap.
 <td class="org-left">GTTTCTTTTGCTTGCCTAGACCACC</td>
 </tr>
 
+
+<tr>
+<td class="org-left">Se47_F</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+
+<tr>
+<td class="org-left">143Rmod</td>
+<td class="org-right">11</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">bears</td>
+<td class="org-left">standard</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
 </tbody>
 </table>
 
