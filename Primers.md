@@ -3234,6 +3234,34 @@ on this repo and will update with this information asap.
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 </tr>
+
+
+<tr>
+<td class="org-left">LCO1490</td>
+<td class="org-right">10</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Insects</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">COI</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">HCO2198</td>
+<td class="org-right">10</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Insects</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">COI</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
 </tbody>
 </table>
 
