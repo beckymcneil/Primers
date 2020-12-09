@@ -4147,11 +4147,316 @@ on this repo and will update with this information asap.
 </tr>
 
 
+<tr>
+<td class="org-left">Hg8_9_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGTTAACTATCTGGCACAGAGTAAG</td>
+</tr>
 
 
+<tr>
+<td class="org-left">Hg8_9_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTTCCTATGGGTTCTACTCTCAG</td>
+</tr>
 
 
+<tr>
+<td class="org-left">Hg8_10_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AATTCTGAAGCAGCCCAAG</td>
+</tr>
 
+
+<tr>
+<td class="org-left">Hg8_10_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GAATTCTTTTCTAGCATAGGTTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hgdii_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ACCTGCCATAGTGCTCATC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hgdii_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGGACTCCTGCCACTGAGAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hl15_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CATCTTGTAGTGCCAAAAAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Hl15_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ATCTTTCAGTTGACCCTTCT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc19_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GGGTGAACAGGATTTATCC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc19_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTGCTAGATAACAATCCTAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc26_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">NED</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTTTCTCCATACCTACATAAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc26_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ATTGTGATCCCATTTTTGTAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc30_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCATGTGATCTTACAGCAAT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc30_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CATGGGTTCTCAATAGAAGA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc78_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GAGTATACCTCCATACTACAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Pvc78_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGTTGTTCTCCTGACCCAAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv9_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TAGTGTTTGGAAATGAGTTGGC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv9_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CTGATCCTTGTGAATCCCAGC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv10_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">VIC</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TTCACTTAGCATAATTCCCTC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv10_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TCATGAATTGGTATTAGACAAAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv11_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CAGAGTAAGCACCCAAGGAGCAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv11_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTGCTGGTGAATTAGCCCATTATAAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv16_F</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">6FAM</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">AGCTAGTGTTAATGATGGTGTG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SGPv16_R</td>
+<td class="org-right">13</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">Seals</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ssr</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TCTGAGAGATTCAGAGTAACCTTC</td>
+</tr>
 
 
 <tr>
