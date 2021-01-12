@@ -3236,6 +3236,150 @@ on this repo and will update with this information asap.
 </tr>
 
 
+<td class="org-left">Grabil</td>
+<td class="org-right">Tagman 3</td>
+<td class="org-right">T23</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">Neovison </td>
+<td class="org-right">Tagman 3</td>
+<td class="org-right">T24</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">L. albifrons </td>
+<td class="org-right">Tagman 3</td>
+<td class="org-right">T25</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">L. caudalis</td>
+<td class="org-right">Tagman 3</td>
+<td class="org-right">T26</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">Elu COI</td>
+<td class="org-right">Tagman 3</td>
+<td class="org-right">T27</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">Wolverine </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T28</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">S.glanis Pr324F </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T29</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">El CytB </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T30</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">N.mucronata </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T31</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">M. margaritifera </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T32</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">PMT1 Tobacco </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T33</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<td class="org-left">BTP </td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T34</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
 <tr>
 <td class="org-left">LCO1490</td>
 <td class="org-right">10</td>
