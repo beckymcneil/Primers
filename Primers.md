@@ -4278,6 +4278,19 @@ on this repo and will update with this information asap.
 
 
 <tr>
+<td class="org-left">Fishf2_t1</td>
+<td class="org-right">10</td>
+<td class="org-right">294</td>
+<td class="org-left">Fish</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">COI</td>
+<td class="org-left">with M13</td>
+<td class="org-left">Ivanova et al.2007, Universal primer cocktail for fish DNA barcoding</td>
+<td class="org-left">TGTAAAACGACGGCCAGTCGACTAATCATAAAGATATCGGCAC</td>
+</tr>
+
+
+<tr>
 <td class="org-left">G10L_F</td>
 <td class="org-right">11</td>
 <td class="org-right">&#xa0;</td>
