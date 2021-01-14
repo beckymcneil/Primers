@@ -4216,13 +4216,53 @@ on this repo and will update with this information asap.
 <td class="org-left">FR1d</td>
 <td class="org-right">10</td>
 <td class="org-right">289</td>
+<td class="org-left">Fish</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">COI</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">Ivanova et al.2007, Universal primer cocktail for fish DNA barcoding</td>
 <td class="org-left">ACCTCAGGGTGTCCGAARAAYCARAA</td>
 </tr>
+
+
+<tr>
+<td class="org-left">FishR2</td>
+<td class="org-right">10</td>
+<td class="org-right">290</td>
+<td class="org-left">Fish</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">COI</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ivanova et al.2007, Universal primer cocktail for fish DNA barcoding</td>
+<td class="org-left">ACTTCAGGGTGACCGAAGAATCAGAA</td>
+</tr>
+
+
+<tr>
+<td class="org-left">FishF2</td>
+<td class="org-right">10</td>
+<td class="org-right">291</td>
+<td class="org-left">Fish</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">COI</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ivanova et al.2007, Universal primer cocktail for fish DNA barcoding</td>
+<td class="org-left">CGACTAATCATAAAGATATCGGCAC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">VF2_t1</td>
+<td class="org-right">10</td>
+<td class="org-right">292</td>
+<td class="org-left">Fish</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">COI</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Ivanova et al.2007, Universal primer cocktail for fish DNA barcoding</td>
+<td class="org-left">CAACCAACCACAAAGACATTGGCAC</td>
+</tr>
+
 
 <tr>
 <td class="org-left">G10L_F</td>
