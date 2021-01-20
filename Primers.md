@@ -3545,7 +3545,7 @@ on this repo and will update with this information asap.
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">CGGTTGGGGTGACCTCGGA</td>
 </tr>
 
 
@@ -3558,7 +3558,7 @@ on this repo and will update with this information asap.
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
 <td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
+<td class="org-left">GCTGTTATCCCTAGGGTAACT</td>
 </tr>
 
 
