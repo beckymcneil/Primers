@@ -4291,6 +4291,58 @@ on this repo and will update with this information asap.
 
 
 <tr>
+<td class="org-left">SaxND2R4</td>
+<td class="org-right">10</td>
+<td class="org-right">295</td>
+<td class="org-left">Bird</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">mtND2</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">J.M. Collinson, 2012. A genetic analysis of the first british siberian stonechat</td>
+<td class="org-left">GGCAGGAAGCCTGTTAAAGG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SaxND2F4</td>
+<td class="org-right">10</td>
+<td class="org-right">296</td>
+<td class="org-left">Bird</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">mtND2</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">J.M. Collinson, 2012. A genetic analysis of the first british siberian stonechat</td>
+<td class="org-left">GCTGAATGGCTATCATTATCG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SaxND2R2</td>
+<td class="org-right">10</td>
+<td class="org-right">297</td>
+<td class="org-left">Bird</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">mtND2</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">J.M. Collinson, 2012. A genetic analysis of the first british siberian stonechat</td>
+<td class="org-left">CCGGTYTGTCATGCGTTAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">SaxND2F1</td>
+<td class="org-right">10</td>
+<td class="org-right">298</td>
+<td class="org-left">Bird</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">mtND2</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">J.M. Collinson, 2012. A genetic analysis of the first british siberian stonechat</td>
+<td class="org-left">ACCTCCAGCCTACTCCTAG</td>
+</tr>
+
+
+<tr>
 <td class="org-left">G10L_F</td>
 <td class="org-right">11</td>
 <td class="org-right">&#xa0;</td>
