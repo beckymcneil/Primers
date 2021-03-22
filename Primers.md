@@ -4343,6 +4343,58 @@ on this repo and will update with this information asap.
 
 
 <tr>
+<td class="org-left">L15774_M13F</td>
+<td class="org-right">10</td>
+<td class="org-right">299</td>
+<td class="org-left">Martes</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">cytb</td>
+<td class="org-left">withM13;</td>
+<td class="org-left">Davison A, Birks JD, Brookes RC, Messenger JE, Griffiths HI. Mitochondrial phylogeography and population history of pine martens Martes martes compared with polecats Mustela putorius. Mol Ecol. 2001 Oct;10(10):2479-88. doi: 10.1046/j.1365-294x.2001.01381.x. PMID: 11742548.</td>
+<td class="org-left">ACATGAATTGGAGGACAACCAGT</td>
+</tr>
+
+
+<tr>
+<td class="org-left">H16498_M13</td>
+<td class="org-right">10</td>
+<td class="org-right">300</td>
+<td class="org-left">Martes</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">cytb</td>
+<td class="org-left">witn M13</td>
+<td class="org-left">Davison A, Birks JD, Brookes RC, Messenger JE, Griffiths HI. Mitochondrial phylogeography and population history of pine martens Martes martes compared with polecats Mustela putorius. Mol Ecol. 2001 Oct;10(10):2479-88. doi: 10.1046/j.1365-294x.2001.01381.x. PMID: 11742548.</td>
+<td class="org-left">CCTGAACTAGGAACCAGATG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LRCB1_M13F</td>
+<td class="org-right">10</td>
+<td class="org-right">301</td>
+<td class="org-left">Martes</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">cytb</td>
+<td class="org-left">with M13</td>
+<td class="org-left">Davison A, Birks JD, Brookes RC, Messenger JE, Griffiths HI. Mitochondrial phylogeography and population history of pine martens Martes martes compared with polecats Mustela putorius. Mol Ecol. 2001 Oct;10(10):2479-88. doi: 10.1046/j.1365-294x.2001.01381.x. PMID: 11742548.</td>
+<td class="org-left">TGGTCTTGTAAACCAAAAATGG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">LRCB3_M13</td>
+<td class="org-right">10</td>
+<td class="org-right">302</td>
+<td class="org-left">Martes</td>
+<td class="org-left">Standart;</td>
+<td class="org-left">cytb</td>
+<td class="org-left">with M13</td>
+<td class="org-left">Davison A, Birks JD, Brookes RC, Messenger JE, Griffiths HI. Mitochondrial phylogeography and population history of pine martens Martes martes compared with polecats Mustela putorius. Mol Ecol. 2001 Oct;10(10):2479-88. doi: 10.1046/j.1365-294x.2001.01381.x. PMID: 11742548.</td>
+<td class="org-left">AGACTCAAGGAAGAAGCAAC</td>
+</tr>
+
+
+<tr>
 <td class="org-left">G10L_F</td>
 <td class="org-right">11</td>
 <td class="org-right">&#xa0;</td>
