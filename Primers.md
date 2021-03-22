@@ -3380,6 +3380,78 @@ on this repo and will update with this information asap.
 </tr>
 
 
+<td class="org-left">V_lagopus_probe</td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T35</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">[FAM]ACGTCCTGCCATGAGGACAAA[BHQ-1]</td>
+</tr>
+
+
+<td class="org-left">V_vulpes_probe</td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T36</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">[FAM]TCATCGCAGCATTAGCGATGG[BHQ-1]</td>
+</tr>
+
+
+<td class="org-left">V_lagopus_FWD</td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T37</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TATTCGCAACCATAGCCACA</td>
+</tr>
+
+
+<td class="org-left">V_lagopus_REV</td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T38</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GGCGGACAAGAGGTTTGTAA</td>
+</tr>
+
+
+<td class="org-left">V_vulpes_FWD</td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T39</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">TGAGGGGGCTTCTCAGTAGA</td>
+</tr>
+
+
+<td class="org-left">V_vulpes_REV</td>
+<td class="org-right">Tagman 4</td>
+<td class="org-right">T40</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">qPCR</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GGATCCTGTTTCGTGGAGAA</td>
+</tr>
+
+
 <tr>
 <td class="org-left">LO</td>
 <td class="org-right">8</td>
