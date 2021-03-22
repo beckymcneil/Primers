@@ -4395,6 +4395,32 @@ on this repo and will update with this information asap.
 
 
 <tr>
+<td class="org-left">341F_Illumina</td>
+<td class="org-right">10</td>
+<td class="org-right">303</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Illumina</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ACACTCTTTCCCTACACGACGCTCTTCCGATCTCCTACGGGNGGCWGCAG</td>
+</tr>
+
+
+<tr>
+<td class="org-left">805R_Illumina</td>
+<td class="org-right">10</td>
+<td class="org-right">304</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">Illumina</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCTGACTACHVGGGTATCTAATCC</td>
+</tr>
+
+
+<tr>
 <td class="org-left">G10L_F</td>
 <td class="org-right">11</td>
 <td class="org-right">&#xa0;</td>
