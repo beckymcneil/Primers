@@ -4493,6 +4493,31 @@ on this repo and will update with this information asap.
 
 
 <tr>
+<td class="org-left">Anisakidae16sF</td>
+<td class="org-right">10</td>
+<td class="org-right">305</td>
+<td class="org-left">nematodes</td>
+<td class="org-left">standart</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">GCGTGAGGACATTAAGGTAGC</td>
+</tr>
+
+
+<tr>
+<td class="org-left">Anisakidae16sR</td>
+<td class="org-right">10</td>
+<td class="org-right">306</td>
+<td class="org-left">nematodes</td>
+<td class="org-left">standart</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">CGAAGACWTATCTTTGTTTA</td>
+</tr>
+
+<tr>
 <td class="org-left">G10L_F</td>
 <td class="org-right">11</td>
 <td class="org-right">&#xa0;</td>
