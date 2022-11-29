@@ -491,7 +491,7 @@ on this repo and will update with this information asap.
 | BR3                        |  15 |    461 | -                     |          | - |                            |                                                                                                                                                                                                                                                                                   | -                                    |
 
 
-LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4
+LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 
 
 ** Primers table 2 - qPCR
