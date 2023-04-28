@@ -608,6 +608,25 @@ LepF1 LepR1 finns i Låda 3 Insect primers och i Låda 4 (DNA labbets)
 | Name                                   | Box      | Number | Species                  | Type | Loci | Modification | Reference | Sequence |
 |----------------------------------------+----------+--------+--------------------------+------+------+--------------+-----------+----------|
 
+** Primers table 3 - Adapter Libraries
+
+| Name                                   | Box                   | Number | Species                  | Type      | Loci | Modification | Reference | Sequence |
+|----------------------------------------+-----------------------+--------+--------------------------+-----------+------+--------------+-----------+----------|
+| Illumina_G10L                          | Bear Illumina Primers | A1     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU05                          | Bear Illumina Primers | A2     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU59                          | Bear Illumina Primers | A3     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU09                          | Bear Illumina Primers | A4     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU23                          | Bear Illumina Primers | A5     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU51                          | Bear Illumina Primers | A6     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU50                          | Bear Illumina Primers | A7     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU10                          | Bear Illumina Primers | A8     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_G10B                          | Bear Illumina Primers | A9     | Bear                     | Illumina  |      |              |           |          |
+| Illumina_G1A                           | Bear Illumina Primers | A10    | Bear                     | Illumina  |      |              |           |          |
+| Illumina_G1D                           | Bear Illumina Primers | A11    | Bear                     | Illumina  |      |              |           |          |
+| Illumina_MU15                          | Bear Illumina Primers | A12    | Bear                     | Illumina  |      |              |           |          |
+
+
+
 
 
 ** qPCR reaction setup
